@@ -2,7 +2,7 @@
 Hello! I'm Miguel and this is my Data Analysis portfolio. This overview only provides brief descriptions of each project. For a comprehensive understanding, it is recommended to explore each project individually for more detailed insights. Thank you for reading!
 
 ## Portfolio Projects
-- [Proyect 1: Students Perfromance in Exams](https://github.com/Migualva/Students-Performance-in-Exams)
+## [Proyect 1: Students Perfromance in Exams](https://github.com/Migualva/Students-Performance-in-Exams)
 
 **Code:**  [students-performance-in-exams.ipynb](https://github.com/Migualva/Students-Performance-in-Exams/blob/main/students-performance-in-exams.ipynb) 
 
@@ -19,7 +19,7 @@ Finally, after a thorough analysis of all factors involved, the project ends wit
 
 
 
-- [Proyect 2: Student Stress Factors: A Comprehensive Analysis](https://github.com/Migualva/Student-Stress-Factors-A-Comprehensive-Analysis)
+## [Proyect 2: Student Stress Factors: A Comprehensive Analysis](https://github.com/Migualva/Student-Stress-Factors-A-Comprehensive-Analysis)
 
 **Code:**  [student-stress-factors-a-comprehensive-analysis.ipynb](https://github.com/Migualva/Student-Stress-Factors-A-Comprehensive-Analysis/blob/main/student-stress-factors-a-comprehensive-analysis.ipynb)
 
@@ -34,3 +34,4 @@ However, as the project develops, the focus moves onto the 5 major factors, rath
 
 ![image](https://github.com/Migualva/Data-Analysis-Portfolio/assets/95355380/674cc3fc-679b-4387-999a-a188c3c728e5)
 
+After all of this, conclusions are drawn from results obtained on this analysis.
