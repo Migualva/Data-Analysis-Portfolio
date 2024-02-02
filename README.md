@@ -43,6 +43,8 @@ However, as the project develops, the focus moves onto the 5 major factors, rath
 After all of this, conclusions are drawn from results obtained on this analysis.
 
 ## [Proyect 3: Power Bi - Flights Analysis](https://github.com/Migualva/Power-BI-Flight-Analysis/tree/main)
+**Proyect Link** : 
+
 Using data from https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018 selection year 2009 to 2011.
 
 Before the report review, the query editor had to be used to ETL the data. As three years were used, all of the tables were anexed before this cleaning went through. This list includes a brief analysis on some steps: 
