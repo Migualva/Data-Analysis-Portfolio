@@ -6,7 +6,7 @@ Hello! I'm Miguel and this is my Data Analysis portfolio. This overview only pro
 - [Portfolio Projects](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - [Proyect 1: Students Performance in Exams](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#proyect-1-students-perfromance-in-exams)
   - [Proyect 2: Student Stress Factors: A Comprehensive Analysis](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#proyect-2-student-stress-factors-a-comprehensive-analysis)
-  - [Proyect 3: Power Bi - Flights Analysis) 
+  - [Proyect 3: Power Bi - Flights Analysis](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#proyect-3-power-bi---flights-analysis)
 ## Portfolio Projects
 ## [Proyect 1: Students Perfromance in Exams](https://github.com/Migualva/Students-Performance-in-Exams)
 
