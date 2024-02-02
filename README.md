@@ -3,10 +3,10 @@ Hello! I'm Miguel and this is my Data Analysis portfolio. This overview only pro
 
 
 ## Index
-- [Portfolio Projects](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
-  - [Proyect 1: Students Performance in Exams](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#Students-Performance-in-Exams)
-  - [Proyect 2: Student Stress Factors: A Comprehensive Analysis](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#Students-Stress-Factors-A-Comprehensive-Analysis)
-
+- [Portfolio Projects](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - [Proyect 1: Students Performance in Exams](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#proyect-1-students-perfromance-in-exams)
+  - [Proyect 2: Student Stress Factors: A Comprehensive Analysis](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#proyect-2-student-stress-factors-a-comprehensive-analysis)
+  - [Proyect 3: Power Bi - Flights Analysis) 
 ## Portfolio Projects
 ## [Proyect 1: Students Perfromance in Exams](https://github.com/Migualva/Students-Performance-in-Exams)
 
@@ -41,3 +41,19 @@ However, as the project develops, the focus moves onto the 5 major factors, rath
 ![image](https://github.com/Migualva/Data-Analysis-Portfolio/assets/95355380/674cc3fc-679b-4387-999a-a188c3c728e5)
 
 After all of this, conclusions are drawn from results obtained on this analysis.
+
+## [Proyect 3: Power Bi - Flights Analysis](https://github.com/Migualva/Power-BI-Flight-Analysis/tree/main)
+Using data from https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018 selection year 2009 to 2011.
+
+Before the report review, the query editor had to be used to ETL the data. As three years were used, all of the tables were anexed before this cleaning went through. This list includes a brief analysis on some steps: 
+- Data types. Most columns used integer values to represent variables that would be suitable on text. Such as Cancelled Status, Arrival Status or Departure Status.
+- Data cleaning. While importing the data to Power BI, some data switches from integer to decimal, gaining an additional 0 on the process (this is just one example of all this process)
+- New columns. Some columns hold information valuable to divide into new columns. Date on the original file is DD/MM/YY, while a column for each value is quicker and easier to manipulate.
+- Data preparation. Renaming columns to make the understanding easier, or deleting columns that now became obsolete.
+
+This report contains two pages. The first one being a general Overview with basic and overall information (total flights, time spent on air, distance, total airports, etc). Also, it contains three buttons to switch information quicker for a deeper understanding. The first button applies filters to select years, while the second and third allow to switch from Destination information to Origin information (regarding Airports). Lastly, a top button can be pressed to switch easily to a Delay Analysis.
+![image](https://github.com/Migualva/Power-BI-Flight-Analysis/assets/95355380/3a69cea5-7c0b-4456-b11e-efceb623643b)
+
+On the second page, the delay analysis shows all the relevant information about this topic. Also, it allows to filter Airlines, years (as the previous page, with the same filter) and two buttons to switch between Arrival and Departure information aswell.
+
+![image](https://github.com/Migualva/Power-BI-Flight-Analysis/assets/95355380/850b0774-83b1-496e-b9b8-1d75ea6ac944)
