@@ -1,6 +1,12 @@
 # Data-Analysis-Portfolio
 Hello! I'm Miguel and this is my Data Analysis portfolio. This overview only provides brief descriptions of each project. For a comprehensive understanding, it is recommended to explore each project individually for more detailed insights. Thank you for reading!
 
+
+## Index
+- [Portfolio Projects](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
+  - [Proyect 1: Students Performance in Exams](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#Students-Performance-in-Exams)
+  - [Proyect 2: Student Stress Factors: A Comprehensive Analysis](https://github.com/Migualva/Data-Analysis-Portfolio/blob/main/README.md#Students-Stress-Factors-A-Comprehensive-Analysis)
+
 ## Portfolio Projects
 ## [Proyect 1: Students Perfromance in Exams](https://github.com/Migualva/Students-Performance-in-Exams)
 
@@ -19,7 +25,7 @@ Finally, after a thorough analysis of all factors involved, the project ends wit
 
 
 
-## [Proyect 2: Student Stress Factors: A Comprehensive Analysis](https://github.com/Migualva/Student-Stress-Factors-A-Comprehensive-Analysis)
+## [Proyect 2: Student Stress Factors - A Comprehensive Analysis](https://github.com/Migualva/Student-Stress-Factors-A-Comprehensive-Analysis)
 
 **Code:**  [student-stress-factors-a-comprehensive-analysis.ipynb](https://github.com/Migualva/Student-Stress-Factors-A-Comprehensive-Analysis/blob/main/student-stress-factors-a-comprehensive-analysis.ipynb)
 
